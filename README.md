@@ -1,7 +1,7 @@
 # Hey, I am Sadew Jayasekara<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
 
-[![Telegram](https://img.shields.io/badge/Telegram-SDBOTs%inifinity-blue)](https://t.me/SDBOTs_inifinity)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinity-blue)](https://t.me/SDBOTs_inifinity)&nbsp;
 <a href="https://t.me/Darkridersslk"><img align='centre' src='https://telegra.ph/file/6445aaf78cb65875dbb9b.jpg' width='500"'> </a>
 
 <!-- Your badges
