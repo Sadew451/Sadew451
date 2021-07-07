@@ -10,6 +10,7 @@ You can use the website to generate badges: https://shields.io/
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ>](https://t.me/darkridersslk/)**                                                                                |
 | <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a 
+<a href="https://t.me/Darkridersslk" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinitysquad-blue)](https://t.me/SDBOTz)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinity-blue)](https://t.me/SDBOTs_inifinity)&nbsp;
