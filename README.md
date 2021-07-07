@@ -2,10 +2,7 @@
 
 <a href="https://t.me/Darkridersslk"><img align='centre' src='https://telegra.ph/file/6445aaf78cb65875dbb9b.jpg' width='500"'> </a>
 <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>
-|  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ>](https://t.me/darkridersslk/)**                                                                                |
-| <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a 
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
