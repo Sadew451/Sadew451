@@ -36,8 +36,6 @@ You can use the website to generate badges: https://shields.io/
 <p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&theme=alduin" alt="sadew451" /></a> </p>
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&theme=alduin" alt="sadew451" /></a> </p>
-
 
 
 
