@@ -26,10 +26,14 @@ You can use the website to generate badges: https://shields.io/
 
 ### My Github Status
 # GITHUB STATUS.
+ <a href="https://github.com/sadew451/handle-path-oz">
+    <img align="center" alt="Sadew Jayasekara's github stats" src="https://github-readme-stats.vercel.app/api?username=sadew451&show_icons=true&theme=midnight-purple" />
+  </a>
+  
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
-- [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
-
+  
+<p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&theme=alduin" alt="sadew451" /></a> </p>
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&theme=alduin" alt="sadew451" /></a> </p>
