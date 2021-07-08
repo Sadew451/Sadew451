@@ -68,3 +68,4 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left">
 <a href="https://t.me/Darkridersslk" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
