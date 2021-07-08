@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 -  👯 I’m looking to collaborate : [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) 🤝🔥;
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/3f26caedf78426a80e055.jpg" />
 
 ### My Github Status
 # GITHUB STATUS.
