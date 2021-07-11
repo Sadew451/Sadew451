@@ -1,4 +1,4 @@
-# Hey, I am Sadew Jayasekara<img <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey, I am Sadew Jayasekara src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 ## Please note: My popular repositories are at [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://GitHub.com/SDBOTsinifinity)
