@@ -11,7 +11,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-|  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>|
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ>](https://t.me/darkridersslk/)**                                                                                |
 | <a href="https://github.com/SDBOTsinifinity"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a 
