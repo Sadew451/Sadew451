@@ -8,9 +8,6 @@
 
 <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
-## Our BOTs Channel <img src="https://media3.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50px">
-<a href="https://t.me/SDBOTs_inifinity">![Telegram](https://www.cryptomuntengids.be/wp-content/uploads/2020/07/telegram.png)</a>
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
