@@ -11,6 +11,10 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+|  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[sadew jayasekara](https://t.me/inukaasith/)**                                                                                |
+| <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a  <a href="https://www.instagram.com/sadewsl/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinitysquad-blue)](https://t.me/SDBOTz)&nbsp;
