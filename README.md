@@ -11,9 +11,6 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-|  <a href="https://t.me/darkridersslk/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>|
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinitysquad-blue)](https://t.me/SDBOTz)&nbsp;
