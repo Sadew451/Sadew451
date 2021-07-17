@@ -21,10 +21,10 @@ You can use the website to generate badges: https://shields.io/
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinity-blue)](https://t.me/SDBOTs_inifinity)&nbsp;
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Sadew Jayasekara👻 Corporation  <br>
--  📚 I went to :  C.W.W Kannangara central college school.  <br>
--  👯 I’m looking to collaborate : [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) 🤝🔥;
+-  ⭐️ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+-  ❤️ I’m currently working on : Sadew Jayasekara👻 Corporation  <br>
+-  😉 I went to :  C.W.W Kannangara central college school.  <br>
+-  🔥 I’m looking to collaborate : [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) 🤝🔥;
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
