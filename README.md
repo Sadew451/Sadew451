@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
   
-<p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&theme=alduin" alt="sadew451" /></a> </p>
+
 
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
