@@ -82,7 +82,7 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/3f26caedf78426a80e055.jpg" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/d5000b20e7d7036106c6e.jpg" />
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451&theme=dark&show_icons=true)
