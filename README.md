@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=Sadew%20Bro&style=social)](https://www.youtube.com/c/sadewbro/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=Sadew%20Bro&style=social)](https://www.youtube.com/c/slsadewbro/videos)
 
 ### My Github Status
 # GITHUB STATUS.
