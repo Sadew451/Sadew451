@@ -31,7 +31,6 @@ You can use the website to generate badges: https://shields.io/
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 ### My Github Status
-# GITHUB STATUS.
  <a href="https://github.com/sadew451/handle-path-oz">
     <img align="center" alt="Sadew Jayasekara's github stats" src="https://github-readme-stats.vercel.app/api?username=sadew451&show_icons=true&theme=midnight-purple" />
   </a>
