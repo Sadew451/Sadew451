@@ -3,7 +3,7 @@
 
 ## Please note: My popular repositories are at [TeamSDBOTs](https://GitHub.com/TeamSDBOTs)
 
-<a href="https://t.me/Darkridersslk"><img align='centre' src='https://telegra.ph/file/b1dec279557530b150023.jpg' width='500"'> </a>
+<a href="https://t.me/Darkridersslk"><img align='centre' src='https://telegra.ph/file/05f66fb0d614c22c0f2df.jpg' width='500"'> </a>
 <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>
 
 <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
