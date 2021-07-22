@@ -15,6 +15,7 @@ You can use the website to generate badges: https://shields.io/
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[sadew jayasekara](https://t.me/darkridersslk/)**                                                                                |
 | <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a  href="https://www.instagram.com/sadewsl/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+<a href="https://www.facebook.com/SLSADEWBRO.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sadewsl/)
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinitysquad-blue)](https://t.me/SDBOTz)&nbsp;
