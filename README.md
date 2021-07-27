@@ -98,3 +98,5 @@ You can use the website to generate badges: https://shields.io/
 
 ### You can get any github bot repositories you want with this. Continue to follow me. Watch youtube video   
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{sadew451}/count.svg)
