@@ -16,7 +16,8 @@ You can use the website to generate badges: https://shields.io/
 |       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙖𝙮𝙖𝙨𝙚𝙠𝙖𝙧𝙖•••](https://t.me/Darkridersslk/)**                                                                                |
 | <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/SLSADEWBRO"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> |
 </a> <a href="https://www.instagram.com/slsadewbro1"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px">                                                                                                                                                
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sadewsl/)
+
+ [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sadewsl/)
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinitysquad-blue)](https://t.me/SDBOTz)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-SDBOTsinifinity-blue)](https://t.me/SDBOTs_inifinity)&nbsp;
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
