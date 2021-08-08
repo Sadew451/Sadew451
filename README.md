@@ -101,3 +101,6 @@ You can use the website to generate badges: https://shields.io/
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sadew451}/count.svg)
+                                                       
+                                                       
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
