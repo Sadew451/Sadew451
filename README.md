@@ -4,8 +4,6 @@
 
 ## Please note: My popular repositories are at [TeamSDBOTs](https://GitHub.com/TeamSDBOTs)
 
- </a>
-<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px>
 
 <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
