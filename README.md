@@ -5,8 +5,6 @@
 ## Please note: My popular repositories are at [TeamSDBOTs](https://GitHub.com/TeamSDBOTs)
 
 
-<img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
