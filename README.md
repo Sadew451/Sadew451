@@ -18,6 +18,8 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&no-bg=true" alt="sadew451" /></a> </p>
 
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/fffea072b4a6bda64dc2e.png" />
+
 - 👨🏽‍💻 I’m currently working on [TeamSDBOTs](https://t.me/SDBOTs_Inifinity);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 👯 I’m looking to collaborate on [EzilaX](https://t.me/Ezila_Updates) 🤝;
@@ -26,9 +28,6 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm Noob;
 - 📫 How to reach me: sadewofficial45@gmail.com;
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-
-
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/d5000b20e7d7036106c6e.jpg" />
 
 ### My Github Status
  <a href="https://github.com/sadew451/handle-path-oz">
