@@ -20,11 +20,13 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&no-bg=true" alt="sadew451" /></a> </p>
 
--  ⭐️ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  ❤️ I’m currently working on : Sadew Jayasekara👻 Corporation  <br>
--  😉 I went to :  C.W.W Kannangara central college school.  <br>
--  🔥 I’m looking to collaborate : [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) 🤝🔥;
--  🤔 I’m looking for help : For  Me  <br>
+- 👨🏽‍💻 I’m currently working on [TeamSDBOTs](https://t.me/SDBOTs_Inifinity);
+- 🌱 I’m currently learning Python Pyrogram & Telethon; 
+- 👯 I’m looking to collaborate on [EzilaX](https://t.me/Ezila_Updates) 🤝;
+- 🤔 I’m looking for help with bot developing 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I'm Noob;
+- 📫 How to reach me: sadewofficial45@gmail.com;
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 ### My Github Status
