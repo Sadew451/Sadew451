@@ -27,6 +27,9 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: sadewofficial45@gmail.com;
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/d5000b20e7d7036106c6e.jpg" />
+
 ### My Github Status
  <a href="https://github.com/sadew451/handle-path-oz">
     <img align="center" alt="Sadew Jayasekara's github stats" src="https://github-readme-stats.vercel.app/api?username=sadew451&show_icons=true&theme=midnight-purple" />
@@ -79,8 +82,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br>
 </p>  
-
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/d5000b20e7d7036106c6e.jpg" />
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451&theme=dark&show_icons=true)
