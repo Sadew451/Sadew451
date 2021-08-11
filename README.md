@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Noob;
 - 📫 How to reach me: sadewofficial45@gmail.com;
--  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/Darkridersslk-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+-  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/SadewJ-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 ### My Github Status
  <a href="https://github.com/sadew451/handle-path-oz">
