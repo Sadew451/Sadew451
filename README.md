@@ -100,3 +100,5 @@ You can use the website to generate badges: https://shields.io/
                                                        
                                                        
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<p align="center"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="sadew451" /></a> </p>
