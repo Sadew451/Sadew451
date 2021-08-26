@@ -1,6 +1,6 @@
 # Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Please note: My popular repositories are at [TeamSDBOTs](https://GitHub.com/TeamSDBOTs)
+## Please note: My popular repositories are at [SDINIFINITY](https://GitHub.com/SDINIFINITY)
 
 
 <!-- Your badges
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/ce4d4b5b34ddd3d5407d0.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [TeamSDBOTs](https://t.me/SDBOTs_Inifinity);
+- 👨🏽‍💻 I’m currently working on [SDBOTs](https://t.me/SDBOTs_Inifinity);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 👯 I’m looking to collaborate on [EzilaX](https://t.me/Ezila_Updates) 🤝;
 - 🤔 I’m looking for help with bot developing 😭;
