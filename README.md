@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&no-bg=true" alt="sadew451" /></a> </p>
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/fffea072b4a6bda64dc2e.png" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/f60c3f6d05e3c186cd42c.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [TeamSDBOTs](https://t.me/SDBOTs_Inifinity);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
