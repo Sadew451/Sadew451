@@ -2,13 +2,6 @@
 
 ## Please note: My popular repositories are at [𝚂𝙳𝙸𝚗𝚒𝚏𝚒𝚗𝚒𝚝𝚢](https://GitHub.com/SDInifinity)
 
-```python
-Name = "Sadew Jayasekara"
-who_i_am = ['Coding':  '👩‍💻']
-Age = "17"
-Country = "SRI LANKA"
-```
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
