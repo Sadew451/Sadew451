@@ -1,10 +1,5 @@
 # Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Name = "Sadew Jayasekara"
-who_i_am = ['Coding':  '❣️']
-Age = "17"
-Country = "Sri Lanka"
-
 ## Please note: My popular repositories are at [𝚂𝙳𝙸𝚗𝚒𝚏𝚒𝚗𝚒𝚝𝚢](https://GitHub.com/SDInifinity)
 
 
