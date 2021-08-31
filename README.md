@@ -5,7 +5,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-|  <a href="https://t.me/Darkridersslk/"><img src="https://telegra.ph/file/afafa837b87643f287995.png" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/Darkridersslk/"><img src="https://telegra.ph/file/a27dfda8803745879da9c.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙖𝙮𝙖𝙨𝙚𝙠𝙖𝙧𝙖](https://t.me/Darkridersslk/)**                                                                                |
 | <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/SadewBro45"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/slsadewbro1"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                         
