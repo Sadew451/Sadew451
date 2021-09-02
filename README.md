@@ -61,18 +61,6 @@ You can use the website to generate badges: https://shields.io/
 
  <a href="https://github.com/sadew451"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sadew451&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
-
-# MY TOOLS AND LANG
-
-<p align ="left">
-  <br />
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br /
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <br>
-</p>  
-
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451&theme=dark&show_icons=true)
 
