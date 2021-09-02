@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <br />
 
-### Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+### Contribution Graph 
 
 <p align="center">
   <a href="https://github.com/sadew451">
