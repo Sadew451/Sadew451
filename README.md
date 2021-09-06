@@ -78,5 +78,5 @@ You can use the website to generate badges: https://shields.io/
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sadew451}/count.svg)
                                                        
-                                                      
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=Uvindu%20Bro&style=social](https://www.youtube.com/UCdSBUUQ1v0_IIElBR_1B72w/videos)
 
