@@ -36,6 +36,30 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
   
+<tr>
+    <th><a href="source/plugins/reactions/README.md">🎭 Comment reactions</a></th>
+    <th><a href="source/plugins/people/README.md">🧑‍🤝‍🧑 People plugin</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/sadew451/sadew451/blob/master/metrics.plugin.reactions.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/sadew451/sadew451/blob/master/metrics.plugin.people.followers.svg">
+      <details><summary>Followed people version</summary>
+        <img alt="" width="400" src="https://github.com/sadew451/sadew451/blob/master/metrics.plugin.people.following.svg">
+      </details>
+      <details><summary>Special thanks version</summary>
+        <img alt="" width="400" src="https://github.com/sadew451/sadew451/blob/master/metrics.plugin.people.thanks.svg">
+      </details>
+      <details><summary>Repository template version</summary>
+        <img alt="" width="400" src="https://github.com/sadew451/sadew451/blob/master/metrics.plugin.people.repository.svg">
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+
 
 ### Languages and Tools I Love❤️
 
