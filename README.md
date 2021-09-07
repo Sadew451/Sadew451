@@ -36,28 +36,7 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
   
- ### 🧑‍🤝‍🧑 People plugin
-
-The *people* plugin can display people you're following or sponsoring, and also users who're following or sponsoring you.
-In repository mode, it's possible to display sponsors, stargazers, watchers.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/Sadew451/Sadew451/blob/master/metrics.plugin.people.followers.svg">
-    <details><summary>Followed people version</summary>
-      <img src="https://github.com/Sadew451/Sadew451/blob/master/metrics.plugin.people.following.svg">
-    </details>
-    <details><summary>Special thanks version</summary>
-      <img src="https://github.com/Sadew451/Sadew451/blob/master/metrics.plugin.people.thanks.svg">
-    </details>
-    <details><summary>Repository template version</summary>
-      <img src="https://github.com/Sadew451/Sadew451/blob/master/metrics.plugin.people.repository.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
- 
- ### Languages and Tools I Love❤️
+### Languages and Tools I Love❤️
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
