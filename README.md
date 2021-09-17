@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [SDBOTs](https://t.me/SDBOTs_Inifinity);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
-- 👯 I’m looking to collaborate on [EzilaX](https://t.me/Ezila_Updates) 🤝;
+- 👯 I’m looking to collaborate on [NATSUKI](https://t.me/Natsuki_Updates) 🤝;
 - 🤔 I’m looking for help with bot developing 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Noob;
