@@ -16,7 +16,7 @@ jobs:
           user: sadew451
           template: classic
           base: activity, community, repositories
-          config_timezone: Asia/srilanka
+          config_timezone: Asia/colombo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
