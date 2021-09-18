@@ -72,9 +72,6 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.instagram.com/slsadewbro1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/SADEWJ45" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;</a>
 
- ## 🏆 GitHub Activity
-
-![Metrics](https://metrics.lecoq.io/sadew451?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
                                                      
 ### You can get any github bot repositories you want with this. Continue to follow me. Watch youtube video   
 
