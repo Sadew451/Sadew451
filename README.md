@@ -1,5 +1,4 @@
 # Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 ## Please note: My popular repositories are at [𝚂𝙳𝙸𝚗𝚒𝚏𝚒𝚗𝚒𝚝𝚢](https://GitHub.com/SDInifinity)
 
 - **⭐️ I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
