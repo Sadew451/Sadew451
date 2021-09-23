@@ -2,22 +2,6 @@
 
 ## Please note: My popular repositories are at [𝚂𝙳𝙸𝚗𝚒𝚏𝚒𝚗𝚒𝚝𝚢](https://GitHub.com/SDInifinity)
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-|  <a href="https://t.me/Darkridersslk/"><img src="https://telegra.ph/file/a27dfda8803745879da9c.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[𝙎𝙖𝙙𝙚𝙬 𝙅𝙖𝙮𝙖𝙨𝙚𝙠𝙖𝙧𝙖](https://t.me/Darkridersslk/)**                                                                                |
-| <a href="https://github.com/sadew451"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/SADEWJ45"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/slsadewbro1"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                         
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sadew:SadewOfficial45@Gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
-
-<p align="center"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&no-bg=true" alt="sadew451" /></a> </p>
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/ce4d4b5b34ddd3d5407d0.jpg" />
-
 - **⭐️ I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
 - **🌟 Currently Learning Python [Connect With Me](https://t.me/James_LK)**
 - **⚡ Always Redy to Help I'm James...**
@@ -32,7 +16,15 @@ Currently Working on "Natsuki"
 
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
-  
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sadew:SadewOfficial45@Gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp;
+
+<p align="center"> <a href="https://github.com/sadew451"><img src="https://github-profile-trophy.vercel.app/?username=sadew451&no-bg=true" alt="sadew451" /></a> </p>
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/ce4d4b5b34ddd3d5407d0.jpg" />
+
 ### Languages and Tools I Love❤️
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
