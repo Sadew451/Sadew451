@@ -9,7 +9,7 @@
 Name = "SADEW JAYASEKARA"
 Who I Am = ['Coding = ❣️']
 Age = "17"
-Country = "🇱🇰"
+Country = ""
 Currently Working on "Natsuki"
 ```
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=SADEW451&include_all_commits=true&count_private=true&theme=highcontrast)
