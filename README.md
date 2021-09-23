@@ -28,7 +28,6 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
-
 ![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
