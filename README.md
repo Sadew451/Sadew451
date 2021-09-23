@@ -3,8 +3,8 @@
 ## My popular repositories are at [SDInifinity](https://GitHub.com/SDInifinity)
 
 - **⭐️ I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
-- **🌟 Currently Learning Python [Connect With Me](https://t.me/James_LK)**
-- **⚡ Always Redy to Help I'm James...**
+- **🌟 Currently Learning Python [Connect With Me](https://t.me/Darkridersslk)**
+- **⚡ Always Redy to Help I'm Sadew Jayasekara...**
 ```python
 Name = "James"
 Who I Am = ['Coding = ❣️']
