@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: sadewofficial45@gmail.com;
 -  💬 Ask me about : ![Telegram](https://img.shields.io/badge/Go%20to-https://t.me/SadewJ-brightgreen) <br>-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
-![Sadew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadew451&count_private=true)
+![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
 - ![Profile views](https://gpvc.arturio.dev/sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
