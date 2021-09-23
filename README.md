@@ -6,7 +6,7 @@
 - **🌟 Currently Learning Python [Connect With Me](https://t.me/Darkridersslk)**
 - **⚡ Always Redy to Help I'm Sadew Jayasekara...**
 ```python
-Name = "SADEW"
+Name = "SADEW JAYASEKARA"
 Who I Am = ['Coding = ❣️']
 Age = "17"
 Country = "🇱🇰"
