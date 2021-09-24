@@ -2,9 +2,9 @@
 
 ## My popular repositories are at [SDInifinity](https://GitHub.com/SDInifinity)
 
--  I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
--  Currently Learning Python [Connect With Me](https://t.me/Darkridersslk)**
--  Always Redy to Help I'm Sadew Jayasekara...**
+-  I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)
+-  Currently Learning Python [Connect With Me](https://t.me/Darkridersslk)
+-  Always Redy to Help I'm Sadew Jayasekara...
 ```python
 Name = "SADEW JAYASEKARA"
 Who I Am = ['Coding = ❣️']
