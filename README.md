@@ -1,6 +1,5 @@
 # Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## My popular repositories are at [SDInifinity](https://GitHub.com/SDInifinity)
 ```python
 Name = "SADEW JAYASEKARA"
 Who I Am = ['Coding = ❣️']
