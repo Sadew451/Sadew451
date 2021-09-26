@@ -1,7 +1,7 @@
 # Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-```python
-Name = "SADEW JAYASEKARA"
+```python 
+Name = "SADEW"
 Who I Am = ['Coding = ❣️']
 Age = "17"
 Country = "🇱🇰"
