@@ -8,9 +8,6 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
--  I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)
--  Currently Learning Python [Connect With Me](https://t.me/Darkridersslk)
--  Always Redy to Help I'm Sadew Jayasekara...
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=SADEW451&include_all_commits=true&count_private=true&theme=highcontrast)
 
