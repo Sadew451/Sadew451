@@ -8,7 +8,7 @@ Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
 
-![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=SADEW451&include_all_commits=true&count_private=true&theme=lowcontrast)
+![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
 - [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451)
 - [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
