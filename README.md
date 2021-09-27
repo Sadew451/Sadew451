@@ -1,5 +1,4 @@
-# Hey, I am Sadew Jayasekara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [SADEW](https://t.me/Darkridersslk)
 ```python 
 Name = "SADEW"
 Who I Am = ['Coding = ❣️']
