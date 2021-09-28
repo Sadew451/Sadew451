@@ -7,7 +7,6 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/d80d2a9b4335b148a378c.jpg" width="150px" height="150px" /></a> 
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
