@@ -8,7 +8,7 @@ Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
 
-`Website:` [SadewJayasekara](https://sadew451.github.io/) <br> 
+`Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
