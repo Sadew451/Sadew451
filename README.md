@@ -7,9 +7,8 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
-`Gmail:` SadewOfficial45@gmail.com <br>
+
 `Website:` [SadewJayasekara](https://sadew451.github.io/) <br> 
-`YouTube:` [SADEW J](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
