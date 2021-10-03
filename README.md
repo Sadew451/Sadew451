@@ -45,6 +45,7 @@ Currently Working on "Natsuki"
 
 # MOST USED LANGUAGES
 
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451)
 
 # CONTACT ME ON
 
