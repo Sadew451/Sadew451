@@ -9,7 +9,6 @@ Currently Working on "Natsuki"
 ```
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
-[![SADEW Card](https://github-readme-stats.vercel.app/api/pin/?username=Sadew451&repo=github-readme-stats)](https://github.com/Sadew451/github-readme-stats)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
