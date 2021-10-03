@@ -10,7 +10,7 @@ Currently Working on "Natsuki"
 
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
-![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&" alt="Sadew" /></p>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
