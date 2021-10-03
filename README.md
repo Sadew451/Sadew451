@@ -1,12 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [SADEW](https://t.me/Darkridersslk) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
-```python 
-Name = "SADEW"
-Who I Am = ['Coding = ❣️']
-Age = "17"
-Country = "🇱🇰"
-Currently Working on "Natsuki"
-```
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
 ![Sadew's github stats](https://github-readme-stats.vercel.app/api?username=sadew451)
@@ -17,6 +10,11 @@ Currently Working on "Natsuki"
 [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp; [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
 
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
+
+# 📊 Stats
+
+[![Metrics](https://metrics.lecoq.io/Sadew451?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Darkridersslk)
+
 
 ## Languages and Tools I Love❤️
 
