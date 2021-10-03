@@ -10,11 +10,6 @@ Currently Working on "Natsuki"
 
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
-<p>
-  <a href="https://github.com/Sadew451/handle-path-oz">
-    <img width="55%" align="left" alt="Sadew's github stats" src="https://github-readme-stats.vercel.app/api?username=Sadew451&show_icons=true&hide_border=true" />
-    </a>
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sadew:SadewOfficial45@Gmail.com)
