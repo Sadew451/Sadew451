@@ -44,7 +44,7 @@ Currently Working on "Natsuki"
  <a href="https://github.com/sadew451"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sadew451&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 # MOST USED LANGUAGES
-[![Sadew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sadew451)](https://github.com/Sadew451/github-readme-stats)
+
 
 # CONTACT ME ON
 
