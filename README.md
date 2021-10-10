@@ -2,7 +2,7 @@
 
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
-![Sadew's github stats](https://github-readme-stats.vercel.app/api?username=sadew451)
+![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
