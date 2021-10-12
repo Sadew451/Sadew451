@@ -3,11 +3,16 @@
 `Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
+#### 📞 Contact me
+<!-- png icons from https://iconscout.com/ -->
+<a href="https://telegram.me/shamilnelli" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
+<a href="https://instagram.com/shamilnelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shamil.habeeb_" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UClP0fw_t0lOU1mYuL7gEa2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
+<a href="https://wa.me/919496300461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="919496300461" height="30" width="40" /></a>
+<a href="https://shamilhabeeb5@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="shamilhabeeb5" height="30" width="40" /></a>
+<br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slsadewbro1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sadew:SadewOfficial45@Gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)&nbsp; [![GitHub followers](https://img.shields.io/github/followers/sadew451.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sadew451?tab=followers)
+#####
 
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
 
