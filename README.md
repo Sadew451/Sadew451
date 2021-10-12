@@ -54,14 +54,3 @@
 # MOST USED LANGUAGES
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451)
-
-# CONTACT ME ON
-
-<p align="left">
-<a href="https://t.me/Im_Sadew" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/slsadewbro1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/SADEWJ45" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" /></a> &nbsp;&nbsp;</a>
-
-                                                     
-### You can get any github bot repositories you want with this. Continue to follow me. Watch youtube video   
