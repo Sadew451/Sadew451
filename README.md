@@ -67,4 +67,4 @@
 ### You can get any github bot repositories you want with this. Continue to follow me. Watch youtube video   
 
 ## 📊 Stats
-[![Metrics](https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg)](https://github.com/AnjanaMadu)
+[![Metrics](https://github.com/sadew451/sadew/raw/main/github-metrics.svg)](https://github.com/sadew451)
