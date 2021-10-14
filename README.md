@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [𝚂𝙰𝙳𝙴𝚆](https://t.me/IM_SADEW) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
-`Website:` [Sadew Jayasekara](https://sadew451.github.io/) <br> 
+`Website:` [sᴀᴅᴇᴡ ᴊᴀʏᴀsᴇᴋᴀʀᴀ](https://sadew451.github.io/) <br> 
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 #### 📞 Contact me
@@ -20,7 +20,7 @@
  
 
 
-<h3 align="left">Tools I Love ♥️ & Learning 👨‍💻</h3>
+<h3 align="left">Tools I Love ♥️ & Learning💻</h3>
 
 
 <a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
