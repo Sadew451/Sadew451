@@ -20,7 +20,7 @@
  
 
 
-<h3 align="left">Tools I Love ♥️ & Learning💻</h3>
+<h3 align="left">Tools I Love ♥️ & Learning</h3>
 
 
 <a href="https://www.arduino.cc"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
