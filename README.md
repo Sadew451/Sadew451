@@ -5,14 +5,15 @@
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 #### 📞 Contact me
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://twitter.com/Sadew_J"><img align="left" alt="Sadew Jayasekara | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
 <a href="https://telegram.me/im_sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
 <a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/SADEWj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 <a href="https://sadewofficial45@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://fb.com/SADEWJ45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana.madu.54" height="30" width="40" /></a>
+<a href="https://twitter.com/Sadew_J"><img align="left" alt="Sadew Jayasekara | Twitter" width="22px"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
-#####
+ #####
 
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
 
