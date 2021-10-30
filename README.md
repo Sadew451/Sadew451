@@ -12,7 +12,8 @@
 <a href="https://sadewofficial45@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://fb.com/SADEWJ45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SADEWJ" height="30" width="40" /></a>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Sadew on Twitter" title="Follow Sadew on Twitter"/>](https://twitter.com/Sadew_J)
-
+<a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
+ 
  #####
 
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
