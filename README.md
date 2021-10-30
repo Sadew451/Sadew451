@@ -3,7 +3,7 @@
 `Website:` [sᴀᴅᴇᴡ ᴊᴀʏᴀsᴇᴋᴀʀᴀ](https://sadew451.github.io/) <br> 
 
 ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
-#### Contact me
+#### `Contact me`
 <!-- png icons from https://iconscout.com/ -->
 
 <a href="https://telegram.me/im_sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
