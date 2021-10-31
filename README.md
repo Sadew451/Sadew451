@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [sᴀᴅᴇᴡ](https://t.me/Sadew_Ja) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [sᴀᴅᴇᴡ](https://t.me/itz_Sadew) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
 `Website:` [sᴀᴅᴇᴡ ᴊᴀʏᴀsᴇᴋᴀʀᴀ](https://sadew451.github.io/) <br> 
 
@@ -6,7 +6,7 @@
 #### `Contact me`
 <!-- png icons from https://iconscout.com/ -->
 
-<a href="https://telegram.me/im_sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
+<a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
 <a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/SADEWj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 <a href="https://sadewofficial45@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
 
 # 📊 Status
-[![Metrics](https://metrics.lecoq.io/Sadew451?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Sadew_Ja)
+[![Metrics](https://metrics.lecoq.io/Sadew451?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/itz_Sadew)
  
 
 
