@@ -44,8 +44,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&theme=highcontrast" alt="Sadew451" /></p>
 
+### Contribution Graph:
 
- <a href="https://github.com/sadew451"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sadew451&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=Sadew451&custom_title=Contribution+Graph&theme=xcode"
+    />
+</p>
+
 
 # MOST USED LANGUAGES
 
