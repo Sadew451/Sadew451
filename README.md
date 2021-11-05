@@ -53,7 +53,7 @@
 <p align="center">
     <img
         width="100%"
-        <img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sadew451&custom_title=Contribution+Graph&theme=xcode"
+        src="https://activity-graph.herokuapp.com/graph?username=Sadew451&custom_title=Contribution+Graph&theme=xcode"
     />
 </p>
 
