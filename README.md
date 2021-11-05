@@ -17,7 +17,7 @@
  #####
 
 <details>
-  <summary> ɢɪᴛʜᴜʙ sᴛᴀᴛs </summary>
+  <summary> Github Stats </summary>
   <br/>
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
 </details>
