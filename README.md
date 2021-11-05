@@ -49,7 +49,7 @@
 
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=sadew451)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadew451&show_icons=true&layout=compact&theme=highcontrast" alt="Sadew451" /></p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sadew451)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SadewJayasekara/)
