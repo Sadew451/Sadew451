@@ -42,12 +42,7 @@
 
 ## Contribution Graph 
 
-<p align="center">
-  <a href="https://github.com/sadew451">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadew451#version3"/>
-  </a>
-</p>
-<a href="h
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadew451&theme=highcontrast" alt="Sadew451" /></p>
 
 
  <a href="https://github.com/sadew451"><img alt="sadew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sadew451&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
