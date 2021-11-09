@@ -16,7 +16,7 @@ jobs:
           user: infotechbro
           template: classic
           base: activity, community, repositories
-          config_timezone: Asia/Calcutta
+          config_timezone: Asia/Colombo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
