@@ -1,8 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [sᴀᴅᴇᴡ](https://t.me/itz_Sadew) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
-> `Website:` [Sadew JA](https://sadew451.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
-
-## ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
+> `Website:` [Sadew JA](https://sadew451.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>> 
  #### Contact me
 <!-- png icons from https://iconscout.com/ -->
 
