@@ -65,5 +65,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Sadew_Jayasekara/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](SadewJa:SadewOfficial45@gmail.com)
       
-## YouTube 
-<a href="https://youtube.com/c/SADEWJ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w-A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+
