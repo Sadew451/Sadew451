@@ -3,8 +3,7 @@
 - Im currently working on [TeamNatsuki](https://t.me/TeamNatsuki)
 
 ```python
-print("Hello world")
-Name = "Sadew Jayasekkara"
+print("Sadew Jayasekara")
 Who I Am = ['Lerning = Python']
 Age = "17"
 Country = 🇱🇰
