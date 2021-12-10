@@ -15,4 +15,15 @@ Country = 🇱🇰
 <a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
  
- 
+ <h3 align="left">Tools I Love ♥️ & Learning</h3>
+
+<a href="https://www.gnu.org/software/bash"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
+<a href="https://www.docker.com"><img src="https://img.icons8.com/fluency/50/000000/docker.png"/></a>
+<a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
+<a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+<a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+<a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+
