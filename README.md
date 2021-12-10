@@ -56,4 +56,4 @@ Country = "Sri Lanka"
 
 - [`Natsuki Group Manager`](https://Github.com/Sadew451/Natsuki)
 
-![Contributors](https://github.com/lowlighter/lowlighter/blob/master/metrics.contributors.svg)
+![Contributors](https://github.com/Sadew451/Natsuki/blob/master/metrics.contributors.svg)
