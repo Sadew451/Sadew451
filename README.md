@@ -41,4 +41,4 @@ Country = "Sri Lanka"
 > [More...](https://www.youtube.com/c/SADEWJ)
 
 <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.people.followers.svg">
+      <img alt="" width="400" src="https://github.com/lowlighter/sadew451/blob/master/metrics.plugin.people.followers.svg">
