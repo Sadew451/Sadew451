@@ -4,7 +4,6 @@
 
 ```python
 print("Hello world")
-
 Name = "Sadew Jayasekkara"
 Who I Am = ['Lerning = Python']
 Age = "17"
