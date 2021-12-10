@@ -30,6 +30,6 @@ Country = "Sri Lanka"
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 
-# Subscribe Now My Yotube Channel
+`Subscribe Now` 
 
 - [SADEWJ](https://youtube.com/c/SadewJ)
