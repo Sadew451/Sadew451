@@ -52,3 +52,7 @@ Tools I Love ♥️ & Learning
 - [Team of Shadow](https://t.me/TeamOfShadow)
 - [TeamDecode](https://t.me/TeamDecode)
 - [TeamSDBots](https://t.me/TeamSDBOTs)
+
+*Populer Repository
+
+- [`Natsuki Group Manager`](Github.com/Sadew451/Natsuki)
