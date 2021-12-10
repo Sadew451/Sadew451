@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Sadew](https://t.me/itz_Sadew) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
-> Im currently working on [TeamNatsuki](https://t.me/TeamNatsuki)
+> Im currently working on [`TeamNatsuki`](https://t.me/TeamNatsuki)
 
 ```python
 Name = "Sadew Jayasekara"
@@ -8,7 +8,7 @@ Who I Am = 'Lerning = Python'
 Age = "17"
 Country = "Sri Lanka"
 ```
-*My GitHub Stats 📊*
+My GitHub Stats 📊
 
 ![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
@@ -20,7 +20,7 @@ Country = "Sri Lanka"
 <a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
  
-*Tools I Love ♥️ & Learning*
+Tools I Love ♥️ & Learning
 
 <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
 <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
