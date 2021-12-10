@@ -3,10 +3,10 @@
 - Im currently working on [TeamNatsuki](https://t.me/TeamNatsuki)
 
 ```python
-print("Sadew Jayasekara")
+Name = print("Sadew Jayasekara")
 Who I Am = ['Lerning = Python']
 Age = "17"
-Country = 🇱🇰
+Country = Sri Lanka
 ```
 <h3 align="left"><b>My GitHub Stats 📊</b></h4>
 
