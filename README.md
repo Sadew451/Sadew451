@@ -3,7 +3,7 @@
 - Im currently working on [TeamNatsuki](https://t.me/TeamNatsuki)
 
 ```python
-print("Hello guys im Sadew Jayasekara")
+print("Hello world")
 
 Name = "Sadew Jayasekkara"
 Who I Am = ['Lerning = Python']
