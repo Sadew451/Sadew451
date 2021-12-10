@@ -37,8 +37,7 @@ Country = "Sri Lanka"
 - [Create Redislab Database](https://youtu.be/ZyCsNkhHwM4)
 - [How to create catuser bot in heroku](https://youtu.be/fcXPoq4FcWw)
 - [Delete Telegram Account](https://youtu.be/d5Pg5HnFSTY)
-- [More...](https://www.youtube.com/c/SADEWJ)
-    * See [More...](https://www.youtube.com/c/SADEWJ) for more information.
+    - [See](https://www.youtube.com/c/SADEWJ) for more information.
 
 > **Contact me on**
 
