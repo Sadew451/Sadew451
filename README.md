@@ -22,8 +22,6 @@ Country = "Sri Lanka"
  
  <h3 align="left">Tools I Love ♥️ & Learning</h3>
 
-<a href="https://www.gnu.org/software/bash"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
-<a href="https://www.docker.com"><img src="https://img.icons8.com/fluency/50/000000/docker.png"/></a>
 <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
 <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
