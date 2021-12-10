@@ -53,6 +53,6 @@ Tools I Love ♥️ & Learning
 - [TeamDecode](https://t.me/TeamDecode)
 - [TeamSDBots](https://t.me/TeamSDBOTs)
 
-> Populer Repository
+Populer Repository
 
 - [`Natsuki Group Manager`](https://Github.com/Sadew451/Natsuki)
