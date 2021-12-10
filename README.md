@@ -8,7 +8,7 @@ Who I Am = 'Lerning = Python'
 Age = "17"
 Country = "Sri Lanka"
 ```
-<h3 align="left"><b>My GitHub Stats 📊</b></h4>
+`My GitHub Stats` 📊
 
 ![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
