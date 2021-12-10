@@ -33,3 +33,9 @@ Country = "Sri Lanka"
 `Subscribe Now` 
 
 - [SADEWJ](https://youtube.com/c/SadewJ)
+- [How to deploy Natsuki on Heroku](https://youtu.be/YyiO6jdPzXg)
+- [Create Redislab Database](https://youtu.be/ZyCsNkhHwM4)
+- [How to create catuser bot in heroku](https://youtu.be/fcXPoq4FcWw)
+- [Delete Telegram Account](https://youtu.be/d5Pg5HnFSTY)
+
+# > [More...](https://www.youtube.com/c/SADEWJ)
