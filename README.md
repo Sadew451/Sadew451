@@ -43,7 +43,7 @@ Tools I Love ♥️ & Learning
 
 - [`Telegram`](https://t.me/Itz_Sadew) | [`Youtube`](https://Youtube.com/c/SadewJ)
 
-My Projects
+My **Projects**
 
 - [SDBots Infinity](https://t.me/SDBOTs_Inifinity)
 - [TeamNatsuki](https://t.me/TeamNatsuki)
