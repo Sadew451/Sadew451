@@ -50,5 +50,5 @@ Country = "Sri Lanka"
 - [TeamNatsuki](https://t.me/TeamNatsuki)
 - [TeamAnkivector](https://t.me/TeamAnkivector)
 - [Team of Shadow](https://t.me/TeamOfShadow)
-- [TeamDecode](hppts://t.me/TeamDecode)
+- [TeamDecode](https://t.me/TeamDecode)
 - [TeamSDBots](https://t.me/TeamSDBOTs)
