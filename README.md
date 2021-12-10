@@ -38,6 +38,7 @@ Country = "Sri Lanka"
 - [How to create catuser bot in heroku](https://youtu.be/fcXPoq4FcWw)
 - [Delete Telegram Account](https://youtu.be/d5Pg5HnFSTY)
 - [More...](https://www.youtube.com/c/SADEWJ)
+    * See [More...](https://www.youtube.com/c/SADEWJ) for more information.
 
 > **Contact me on**
 
@@ -56,4 +57,3 @@ Country = "Sri Lanka"
 
 - [`Natsuki Group Manager`](https://Github.com/Sadew451/Natsuki)
 
-![Contributors](https://github.com/Sadew451/Natsuki/main/metrics.contributors.svg)
