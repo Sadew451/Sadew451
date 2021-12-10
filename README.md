@@ -39,3 +39,9 @@ Country = "Sri Lanka"
 - [Delete Telegram Account](https://youtu.be/d5Pg5HnFSTY)
 
 > [More...](https://www.youtube.com/c/SADEWJ)
+
+<tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.reactions.svg">
+      <img width="900" height="1" alt="">
+    </td>
