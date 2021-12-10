@@ -18,7 +18,7 @@
   <summary> Github Stats </summary>
   <br/>
 <p align="left"> <a href="https://github.com/Sadew451"><img src="https://github-profile-trophy.vercel.app/?username=Sadew451&no-bg=true" alt="SADEW" /></a> </p>
-![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast) 
+<p ![SADEW Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast) </p>
 </details>
 
 # 📊 Status
