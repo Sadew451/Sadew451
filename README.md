@@ -40,7 +40,7 @@ Tools I Love ♥️ & Learning
 
 > [More...](https://www.youtube.com/c/SADEWJ)
 
-*Contact me on*
+> Contact me on
 
 - [Telegram](https://t.me/Itz_Sadew)
 
@@ -53,6 +53,6 @@ Tools I Love ♥️ & Learning
 - [TeamDecode](https://t.me/TeamDecode)
 - [TeamSDBots](https://t.me/TeamSDBOTs)
 
-*Populer Repository
+> Populer Repository
 
 - [`Natsuki Group Manager`](https://Github.com/Sadew451/Natsuki)
