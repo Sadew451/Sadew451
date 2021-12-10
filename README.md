@@ -4,12 +4,13 @@
 
 ```python
 print("Hello guys im Sadew Jayasekara")
+
 Name = "Sadew Jayasekkara"
 Who I Am = ['Lerning = Python']
 Age = "17"
 Country = 🇱🇰
 ```
-<h3 align="left"><b>My GitHub Stat</b></h4>
+<h3 align="left"><b>My GitHub Stats 📊</b></h4>
 
 ![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
