@@ -3,11 +3,15 @@
 - Im currently working on [TeamNatsuki](https://t.me/TeamNatsuki)
 
 ```python
+print("Hello guys im Sadew Jayasekara")
 Name = "Sadew Jayasekkara"
 Who I Am = ['Lerning = Python']
 Age = "17"
 Country = 🇱🇰
 ```
+<h3 align="left"><b>My GitHub Stat</b></h4>
+
+![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
 
 <a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
 <a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
