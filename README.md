@@ -42,7 +42,7 @@ Tools I Love ♥️ & Learning
 
 > Contact me on
 
-- [Telegram](https://t.me/Itz_Sadew)
+- [Telegram](https://t.me/Itz_Sadew) | [`Youtube`](https://Youtube.com/c/SadewJ)
 
 *My Projects*
 
