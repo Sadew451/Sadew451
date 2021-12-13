@@ -34,7 +34,7 @@ Country = "Sri Lanka"
 
 `Subscribe Now`
 
-- [SADEWJ](https://youtube.com/c/SadewJ) | [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/SadewJ/videos)
+- [SADEWJ](https://youtube.com/c/SadewJ)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/SadewJ/videos)
 - [How to deploy Natsuki on Heroku](https://youtu.be/YyiO6jdPzXg)
 - [Create Redislab Database](https://youtu.be/ZyCsNkhHwM4)
 - [How to create catuser bot in heroku](https://youtu.be/fcXPoq4FcWw)
