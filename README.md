@@ -3,10 +3,10 @@
 - **Im currently working on** [`TeamNatsuki`](https://t.me/TeamNatsuki)
 
 ```python
-x = Name = "Sadew Jayasekara"
-x = Who I Am = 'Lerning = Python'  | print(x)
-x = Age = "17"
-x = Country = "Sri Lanka"
+Name = "Sadew Jayasekara"
+Who I Am = 'Lerning = Python'
+Age = "17"
+Country = "Sri Lanka"
 ```
 **Contact me On**
 
