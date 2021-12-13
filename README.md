@@ -4,7 +4,7 @@
 
 ```python
 x = Name = "Sadew Jayasekara"
-x = Who I Am = 'Lerning = Python'
+x = Who I Am = 'Lerning = Python'  | print(x)
 x = Age = "17"
 x = Country = "Sri Lanka"
 ```
