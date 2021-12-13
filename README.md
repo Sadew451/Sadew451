@@ -10,7 +10,7 @@ Country = "Sri Lanka"
 ```
 **Contact me On**
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=Uvindu%20Bro&style=social)](https://www.youtube.com/c/SadewJ/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEWJ%20Bro&style=social)](https://www.youtube.com/c/SadewJ/videos)
 
 
 <a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
