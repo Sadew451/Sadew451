@@ -43,7 +43,7 @@ Country = "Sri Lanka"
 
 > **Contact me on**
 
-- [`Telegram`](https://t.me/Itz_Sadew) | [`Youtube`](https://Youtube.com/c/SadewJ)
+- [`Telegram`](https://t.me/Itz_Sadew) | [`Youtube`](https://Youtube.com/c/SADUWA)
 
 **My Projects**
 
