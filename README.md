@@ -34,16 +34,12 @@ Country = "Sri Lanka"
 
 `Subscribe Now`
 
-- [SaduWA](https://www.youtube.com/c/SADUWA)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/SADUWA/videos)
+- [SaduWA](http://www.youtube.com/c/SaduwaBeatz)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/SADUWA/videos)
 - [How to deploy Natsuki on Heroku](https://youtu.be/YyiO6jdPzXg)
-- [Create Redislab Database](https://youtu.be/ZyCsNkhHwM4)
-- [How to create catuser bot in heroku](https://youtu.be/fcXPoq4FcWw)
-- [Delete Telegram Account](https://youtu.be/d5Pg5HnFSTY)
-    - [`See for more information.`](https://www.youtube.com/c/SADEWJ)
 
 > **Contact me on**
 
-- [`Telegram`](https://t.me/Itz_Sadew) | [`Youtube`](https://Youtube.com/c/SADUWA)
+- [`Telegram`](https://t.me/Itz_Sadew) | [`Youtube`](http://www.youtube.com/c/SaduwaBeatz)
 
 **My Projects**
 
