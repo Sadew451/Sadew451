@@ -20,10 +20,6 @@ Country = "Sri Lanka"
 <a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
  
-**My GitHub Stats**
-
-![Sadew Git Stats](https://github-readme-stats.vercel.app/api?username=Sadew451&include_all_commits=true&count_private=true&theme=highcontrast)
-
 **Tools I Love ♥️ & Learning**
 
 <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
@@ -36,8 +32,8 @@ Country = "Sri Lanka"
 
 `Subscribe Now`
 
-- [SaduWA](http://www.youtube.com/c/SaduwaBeatz)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/SADUWA/videos)
-- [How to deploy Natsuki on Heroku](https://youtu.be/YyiO6jdPzXg)
+- [SaduWA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UUCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/jezzymac/videos)
+
 
 > **Contact me on**
 
