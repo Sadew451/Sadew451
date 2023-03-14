@@ -2,7 +2,7 @@
 
 - **Im currently working on** [`TeamNatsuki`](https://t.me/TeamNatsuki)
 
-## SPECIALLY RAP ARTIST OF SRI LANKNA [JEZZY](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)
+- ## SPECIALLY RAP ARTIST OF SRI LANKNA [JEZZY](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)
 
 ```python
 Name = "Sadew Jayasekara"
