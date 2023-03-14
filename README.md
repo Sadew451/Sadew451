@@ -32,7 +32,7 @@ Country = "Sri Lanka"
 
 `Subscribe Now`
 
-<a href="https://www.youtube.com/c/SaduwaBeatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>)
+<a href="https://www.youtube.com/c/SaduwaBeatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 
 
 > **Contact me on**
