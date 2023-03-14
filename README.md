@@ -2,19 +2,21 @@
 
 - **Im currently working on** [`TeamNatsuki`](https://t.me/TeamNatsuki)
 
+## [SPECIALY](RAP ARTIST OF SRI LANKNA [JEZZY])
+
 ```python
 Name = "Sadew Jayasekara"
 Who I Am = 'Lerning = Python'
-Age = "17"
+Age = "18"
 Country = "Sri Lanka"
 ```
 **Contact me On**
 
 <a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
 <a href="https://instagram.com/Saduwa_X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/SaduwaBeatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jezzymac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCdSBUUQ1v0_IIElBR_1B72w" height="30" width="40" /></a>
 <a href="https://sadewofficial45@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Sadew Jayasekara" height="30" width="40" /></a>
-<a href="https://fb.com/SADEWJ45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SADEWJ" height="30" width="40" /></a>
+<a href="https://fb.com/jmjezzymac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jmjezzymac" height="30" width="40" /></a>
 <a href="https://twitter.com/Sadew_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
  
