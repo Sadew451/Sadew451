@@ -32,7 +32,7 @@ Country = "Sri Lanka"
 
 `Subscribe Now`
 
-- [SaduWA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w)   |   [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UUCdSBUUQ1v0_IIElBR_1B72w?label=SADEW%20J&style=social)](https://www.youtube.com/c/jezzymac/videos)
+<a href="https://www.youtube.com/c/SaduwaBeatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>)
 
 
 > **Contact me on**
